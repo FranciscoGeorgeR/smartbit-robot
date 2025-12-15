@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Paulo da Silva",
+            "email": "paulodasilva@teste.com",
+            "cpf": "79771288024"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4000056655665556",
+            "holder": "Paulo da Silva",
+            "month": "10",
+            "year": "2035",
+            "cvv": "123"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Ricardo da Feira",
+            "email": "ricardofeira@teste.com",
+            "cpf": "99145722005"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Ricardo da Feira",
+            "month": "05",
+            "year": "2040",
+            "cvv": "321"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Maria da Feira",
+            "email": "mariafeira@teste.com",
+            "cpf": "17966467090"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Maria da Feira",
+            "month": "05",
+            "year": "2040",
+            "cvv": "321"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Haddad Silva",
+            "email": "haddadsilva@teste.com",
+            "cpf": "33909366023"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Haddad Silva",
+            "month": "05",
+            "year": "2040",
+            "cvv": "321"
+        }
+    }
+}
